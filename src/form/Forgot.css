@@ -1,0 +1,10 @@
+.forgot_img{
+    font-family: "Ubuntu", sans-serif;
+  display: flex;
+  justify-content: space-between;
+  background: url(https://pixinvent.com/demo/vuexy-react-admin-dashboard-template/demo-1/static/media/forgot-password-v2.92f01a1f.svg);
+  width: 100%;
+  height: 90%;
+
+}
+
