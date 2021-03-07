@@ -1,20 +1,23 @@
 {
   "files": {
-    "main.css": "/new-vuxy/static/css/main.bf2fca39.chunk.css",
-    "main.js": "/new-vuxy/static/js/main.1622cd1e.chunk.js",
-    "main.js.map": "/new-vuxy/static/js/main.1622cd1e.chunk.js.map",
+    "main.css": "/new-vuxy/static/css/main.3495a1e2.chunk.css",
+    "main.js": "/new-vuxy/static/js/main.dac933a1.chunk.js",
+    "main.js.map": "/new-vuxy/static/js/main.dac933a1.chunk.js.map",
     "runtime-main.js": "/new-vuxy/static/js/runtime-main.d84cb15c.js",
     "runtime-main.js.map": "/new-vuxy/static/js/runtime-main.d84cb15c.js.map",
-    "static/js/2.d339633f.chunk.js": "/new-vuxy/static/js/2.d339633f.chunk.js",
-    "static/js/2.d339633f.chunk.js.map": "/new-vuxy/static/js/2.d339633f.chunk.js.map",
+    "static/css/2.3f6a4e7d.chunk.css": "/new-vuxy/static/css/2.3f6a4e7d.chunk.css",
+    "static/js/2.b077f73a.chunk.js": "/new-vuxy/static/js/2.b077f73a.chunk.js",
+    "static/js/2.b077f73a.chunk.js.map": "/new-vuxy/static/js/2.b077f73a.chunk.js.map",
     "index.html": "/new-vuxy/index.html",
-    "static/css/main.bf2fca39.chunk.css.map": "/new-vuxy/static/css/main.bf2fca39.chunk.css.map",
-    "static/js/2.d339633f.chunk.js.LICENSE.txt": "/new-vuxy/static/js/2.d339633f.chunk.js.LICENSE.txt"
+    "static/css/2.3f6a4e7d.chunk.css.map": "/new-vuxy/static/css/2.3f6a4e7d.chunk.css.map",
+    "static/css/main.3495a1e2.chunk.css.map": "/new-vuxy/static/css/main.3495a1e2.chunk.css.map",
+    "static/js/2.b077f73a.chunk.js.LICENSE.txt": "/new-vuxy/static/js/2.b077f73a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d84cb15c.js",
-    "static/js/2.d339633f.chunk.js",
-    "static/css/main.bf2fca39.chunk.css",
-    "static/js/main.1622cd1e.chunk.js"
+    "static/css/2.3f6a4e7d.chunk.css",
+    "static/js/2.b077f73a.chunk.js",
+    "static/css/main.3495a1e2.chunk.css",
+    "static/js/main.dac933a1.chunk.js"
   ]
 }
